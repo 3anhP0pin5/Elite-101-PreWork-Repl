@@ -1,2 +1,2 @@
-name = "Jack Howl"
-favoritePerson = "Victor Valentine"
+favorite_Charater = "Jack Howl"
+other_favorite_Person = "Victor Valentine"
